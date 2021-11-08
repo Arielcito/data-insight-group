@@ -1,0 +1,22 @@
+p{
+    text-indent:20px ;
+}
+.img-thumbnail{
+    width: 5rem;
+    height: 5rem;
+}
+.congress{
+    width: 30rem;
+    height: 20rem;
+    padding-left: 10rem;
+}
+.logo{
+    background-image: url(../assets/capitol.jpg);
+    background-size: cover;
+    background-position: 10rem;
+}
+.carousel{
+    
+    width: 50rem;
+    height: 40rem;
+}
